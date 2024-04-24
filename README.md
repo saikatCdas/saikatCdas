@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [fluentCRM]([https://paymattic.com/](https://fluentcrm.com/]) and [FluentBoards]([https://paymattic.com/](https://fluentcrm.com/](https://fluentboards.com/))) 
+- 🔭 I’m currently working on [fluentCRM](https://fluentcrm.com/) and [FluentBoards](https://fluentcrm.com/](https://fluentboards.com/)
 
 - 🌱 I’m currently learning WordPress
 
