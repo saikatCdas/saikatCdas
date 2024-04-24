@@ -15,7 +15,6 @@
 
 - 📫 How to reach me saikatdas45857@gmail.com
 
-- ⚡ Fun fact So Funny
 
 
 <h3 align="left">Languages and Tools:</h3>
