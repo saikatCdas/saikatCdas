@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Paymattic](https://paymattic.com/)
+- 🔭 I’m currently working on [fluentCRM]([https://paymattic.com/](https://fluentcrm.com/)) and [FluentBoards]([https://paymattic.com/](https://fluentcrm.com/](https://fluentboards.com/))) 
 
 - 🌱 I’m currently learning WordPress
 
-- 💬 Ask me about Vue, React, Javascript, and WordPress Plugin Development
+- 💬 Ask me about Vue, React, Javascript, WordPress Plugin Development and Python
 
-- 📫 How to reach me cse33nitesh@gmail.com
+- 📫 How to reach me saikatdas45857@gmail.com
 
 - ⚡ Fun fact So Funny
 
